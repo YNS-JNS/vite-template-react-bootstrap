@@ -20,7 +20,7 @@ vite-template-react
     ├───assets
     ├───components
         ├───about
-        ├───card
+        ├───cardItem
         ├───footer
         ├───header
         └───home
