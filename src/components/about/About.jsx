@@ -2,7 +2,7 @@ import React from 'react'
 /* - Styles ________________________________ */
 import './about.css';
 /* - Components ____________________________ */
-import CardItem from '../card/CardItem';
+import CardItem from '../cardItem/CardItem';
 /*__________________________________________ */
 
 const About = () => {
